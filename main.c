@@ -26,6 +26,9 @@ void enterUserdetails(int number,int age){
   printf("HEY YOUR NUMBER IS %d \n YOUR AGE IS %d \n",number,age);
 }
 
+void kavindu(){
+ printf("hello im kavindu gunathilaka");
+}
 
 
 int Big(int a,int b){
